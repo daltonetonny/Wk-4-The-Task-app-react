@@ -1,9 +1,6 @@
 🧠 Reactify Tasks by Dalton
 A sleek and modern task management web app built with ⚡Vite, 🌈 Tailwind CSS, and ⚛️ React. This app brings productivity and vibe together — offering task tracking, dynamic theming, pagination, API integration, and a clean UI.
 
-🚀 Live Preview
-(Add your deployed live link here when ready)
-
 ✨ Core Features
 ✅ Add / Complete / Delete Tasks
 
@@ -30,8 +27,7 @@ HTTP Requests: Axios
 
 📁 File Layout
 css
-Copy
-Edit
+'''
 src/
 ├── components/
 │   ├── Button.jsx
@@ -52,11 +48,9 @@ src/
 ├── main.jsx
 └── index.css
 ⚙️ Setup
-bash
-Copy
-Edit
+
 # 1. Clone the repo
-git clone https://github.com/daltonetonny/reactify-tasks.git
+[git clone https://github.com/daltonetonny/reactify-tasks.git](https://github.com/daltonetonny/Wk-4-The-Task-app-react.git)
 cd reactify-tasks
 
 # 2. Install dependencies
